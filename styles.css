@@ -8,6 +8,7 @@
     height: 100vh;
 }
 
+/* centers text in home page */
 .center {
     height: 100%;
     width: 100%;
@@ -29,6 +30,7 @@ footer {
     background-color: #1b242f;
 }
 
+/*font used in about section*/
 .peddana {
     font-family: 'Peddana', serif;
     font-size: 1.4em;
