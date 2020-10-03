@@ -1,0 +1,35 @@
+* {
+    color: #fbfbfb;
+    font-family: 'Epilogue', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.page-height {
+    height: 100vh;
+}
+
+.center {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+}
+
+.dark-font {
+    color: #45474a;
+}
+
+.pink-font {
+    color: #e31b6d;
+}
+
+footer {
+    background-color: #1b242f;
+}
+
+.peddana {
+    font-family: 'Peddana', serif;
+    font-size: 1.4em;
+}
