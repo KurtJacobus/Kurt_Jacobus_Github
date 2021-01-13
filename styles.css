@@ -31,7 +31,6 @@ footer {
 }
 
 /*font used in about section*/
-.peddana {
-    font-family: 'Peddana', serif;
-    font-size: 1.4em;
+.Nunito {
+    font-family: 'Nunito', sans-serif;
 }
